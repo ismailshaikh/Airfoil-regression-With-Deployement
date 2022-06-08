@@ -1,4 +1,4 @@
-lask
+Flask
 gunicorn
 Jinja2
 Werkzeug
